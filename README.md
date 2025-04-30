@@ -22,9 +22,7 @@ Here, I document my everyday Python practice and learning — from basic exercis
   - Exception Handling 🚨
   - Libraries like `pandas`, `matplotlib`, `numpy`, and more! 📊
 
-- 🧠 **Mini Projects**  
-  Small but meaningful programs that help reinforce key concepts.
-
+  
 ---
 
 ## 🛠️ Tools & Technologies
